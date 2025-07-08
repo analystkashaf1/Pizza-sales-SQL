@@ -19,7 +19,7 @@ Key Questions Answered:
 13.Percentage contribution of each pizza to total revenue
 14.Top 3 pizzas per category based on revenue
 
-🙏 Acknowledgments
+Acknowledgments:
 Thank you for taking the time to review my project.
 I welcome any feedback or suggestions for improvement — especially from mentors and seniors!
-
+Source: Dataset taken from WSCube Tech 

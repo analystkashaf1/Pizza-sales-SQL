@@ -1,4 +1,5 @@
-# Pizza-sales-SQL
+SQL Project
+Pizza-sales-Analysis
 📊 Project Overview:
 
 This project focuses on analyzing a pizza sales dataset using SQL to extract meaningful business insights. I used various SQL queries to answer key performance questions related to sales, order patterns, pizza categories, and revenue trends.

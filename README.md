@@ -1,10 +1,10 @@
-SQL Project
+# SQL Project
 Pizza-sales-Analysis
-📊 Project Overview:
+## 📊 Project Overview:
 
 This project focuses on analyzing a pizza sales dataset using SQL to extract meaningful business insights. I used various SQL queries to answer key performance questions related to sales, order patterns, pizza categories, and revenue trends.
 
-Key Questions Answered:
+## Key Questions Answered:
 1.Total number of orders placed
 2.Total revenue generated
 3.Highest-priced pizza
@@ -19,7 +19,7 @@ Key Questions Answered:
 13.Percentage contribution of each pizza to total revenue
 14.Top 3 pizzas per category based on revenue
 
-Acknowledgments:
+## Acknowledgments:
 Thank you for taking the time to review my project.
 I welcome any feedback or suggestions for improvement — especially from mentors and seniors!
 Source: Dataset taken from WSCube Tech 
